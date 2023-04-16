@@ -8,5 +8,7 @@ variable "backup_retention_period" {}
 variable "preferred_backup_window" {}
 variable engine {}
 variable engine_version {}
+variable "no_of_instances" {}
+variable "instnace_class" {}
 
 
