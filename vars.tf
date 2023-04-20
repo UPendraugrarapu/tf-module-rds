@@ -10,5 +10,5 @@ variable engine {}
 variable engine_version {}
 variable "no_of_instances" {}
 variable "instnace_class" {}
-variable "skip_final_snapshot" {}
+
 
