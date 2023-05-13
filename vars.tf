@@ -10,5 +10,6 @@ variable engine {}
 variable engine_version {}
 variable "no_of_instances" {}
 variable "instnace_class" {}
-
+variable "vpc_id" {}
+variable "allow_subnets" {}
 
